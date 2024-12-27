@@ -16,7 +16,7 @@ function App() {
       <div>
         <table className="table">
           <thead>
-            <th>ID</th>
+            <th>IDs</th>
             <th>Name</th>
             <th>Email</th>
           </thead>
